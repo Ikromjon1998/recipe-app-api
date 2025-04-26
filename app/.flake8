@@ -1,0 +1,2 @@
+[flake8]
+exclude = .git, __pycache__, .venv, .env, .idea, .mypy_cache, .pytest_cache, migrations, settings.py, manage.py, wsgi.py, asgi.py
